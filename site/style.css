@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: gray;
+	box-sizing: border-box;
+}
+#box {
+	background-color: darkgray;
+	padding: 10px 30px 10px 30px;
+	border: 20px solid black;
+	margin: 40px;
+	width: 300px;
+}
+#content {
+	background-color: white;
+}
+div {
+	width: 33.33%;
+}
